@@ -49,3 +49,5 @@ print(first)
 print(first.lower())
 print(first.upper())
 print(first)
+
+print(multiline.title())
